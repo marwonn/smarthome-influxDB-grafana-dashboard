@@ -1,0 +1,9 @@
+certifi==2021.10.8
+charset-normalizer==2.0.9
+click==8.0.3
+click-log==0.3.2
+idna==3.3
+pyserial==3.5
+python-aqi==0.6.1
+requests==2.26.0
+urllib3==1.26.7
