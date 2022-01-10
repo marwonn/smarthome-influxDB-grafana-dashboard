@@ -35,6 +35,8 @@ Grafana server is listening on ```http://<ip address>:3000```
 ## Dashboard example
 <img src="./img/demo_vid.gif">
 
+<img src="./img/1a.jpg">
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
