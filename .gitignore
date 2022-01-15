@@ -7,7 +7,11 @@ helper/config.py
 helper/display.py
 helper/led_ampel.py
 helper/get_sdss011.py
+helper/enviro*
+zero-raspi.code-workspace
 grafana_zero_logger_sds*
+display_continuesly*
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

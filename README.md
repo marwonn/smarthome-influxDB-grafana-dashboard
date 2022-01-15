@@ -1,6 +1,6 @@
 # Smarthome Dashboard with Grafana & InfluxDB
 
-This is a complete overhaul of my [Raspberry Dashboard done with Flask](https://github.com/marwonn/Raspberry-DHT-22-Dashboard).
+This is a complete overhaul of my [Raspberry Dashboard done with Flask](https://github.com/marwonn/Raspberry-DHT-22-Dashboard) project.
 
 I switched from sqlite to InfluxDB which is much better prepared to deal with time series data. And I also switched to Grafana for creating the dashboard itself. Building nice looking graphs and interact with them is way more easy with Grafana (as I did before - by hand).
 
